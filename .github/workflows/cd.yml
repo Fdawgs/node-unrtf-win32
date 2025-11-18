@@ -59,7 +59,7 @@ jobs:
               # from package.json before publishing to reduce package size
               run: |
                   npm i -g npm@latest
-                  npm i --ignore-scripts
+                  npm i -f --ignore-scripts
                   npm run build --if-present
                   npm pkg delete commitlint devDependencies jest scripts
                   npm publish --access public --ignore-scripts
@@ -105,7 +105,7 @@ jobs:
               # from package.json before publishing to reduce package size
               run: |
                   npm i -g npm@latest
-                  npm i --ignore-scripts
+                  npm i -f --ignore-scripts
                   npm run build --if-present
                   npm pkg delete commitlint devDependencies jest scripts
                   npm publish --access public --ignore-scripts --provenance
