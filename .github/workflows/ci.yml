@@ -60,7 +60,7 @@ jobs:
                   node-version-file: .nvmrc
 
             - name: Install
-              # Force install to bypass os and cpu limitations, we are only linting here
+              # Force install to bypass OS/CPU checks; this job only lints
               run: npm i -f --ignore-scripts
 
             - name: Audit NPM package signatures and provenance attestations
