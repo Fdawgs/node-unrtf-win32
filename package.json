@@ -1,7 +1,7 @@
 {
 	"name": "node-unrtf-win32",
 	"version": "0.0.1",
-	"description": "Windows binaries for node-unrtf",
+	"description": "32-bit UnRTF Windows binary",
 	"os": ["win32"],
 	"cpu": ["x64", "ia32"],
 	"main": "src/index.js",
