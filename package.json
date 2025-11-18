@@ -2,6 +2,22 @@
 	"name": "node-unrtf-win32",
 	"version": "1.0.0",
 	"description": "32-bit UnRTF Windows binary",
+	"keywords": [
+		"html",
+		"latex",
+		"ps",
+		"rtf",
+		"rtf-converter",
+		"rtf-to-html",
+		"rtf-to-latex",
+		"rtf-to-ps",
+		"rtf-to-text",
+		"rtf-to-wpml",
+		"text",
+		"txt",
+		"unrtf",
+		"wpml"
+	],
 	"os": [
 		"win32"
 	],

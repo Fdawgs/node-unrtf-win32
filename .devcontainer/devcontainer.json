@@ -34,7 +34,7 @@
 		"ghcr.io/devcontainers/features/github-cli:1": {}
 	},
 	// Change owner of the /workspaces folder to the non-root user to avoid permission issues
-	"onCreateCommand": "sudo apt-get -q update && sudo apt-get -y --no-install-recommends install unrtf && sudo chown -R node:node /workspaces/",
+	"onCreateCommand": "sudo chown -R node:node /workspaces/",
 	// Use 'postCreateCommand' to run commands after the container is created
 	"postCreateCommand": "npm i && npm run prepare",
 	"remoteUser": "node"

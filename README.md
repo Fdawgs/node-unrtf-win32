@@ -6,7 +6,7 @@
 [![Coverage status](https://coveralls.io/repos/github/Fdawgs/node-unrtf-win32/badge.svg?branch=main)](https://coveralls.io/github/Fdawgs/node-unrtf-win32?branch=main)
 [![code style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
 
-> 32-bit UnRTF Windows binary
+> 32-bit UnRTF Windows binary packaged for Node.js
 
 ## Overview
 
