@@ -1,6 +1,6 @@
 {
 	"name": "node-unrtf-win32",
-	"version": "0.0.3",
+	"version": "1.0.0",
 	"description": "32-bit UnRTF Windows binary",
 	"os": [
 		"win32"
@@ -20,7 +20,7 @@
 	"bugs": {
 		"url": "https://github.com/Fdawgs/node-unrtf-win32/issues"
 	},
-	"license": "gpl-3.0-or-later",
+	"license": "GPL-3.0-or-later",
 	"author": "Frazer Smith <frazer.dev@icloud.com>",
 	"funding": "https://github.com/sponsors/Fdawgs",
 	"engines": {
