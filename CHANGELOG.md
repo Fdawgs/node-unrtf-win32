@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/Fdawgs/node-unrtf-win32/compare/v0.0.3...v1.0.0) (2025-11-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* v1.0.0 stable ([#8](https://github.com/Fdawgs/node-unrtf-win32/issues/8))
+
+### Miscellaneous
+
+* v1.0.0 stable ([#8](https://github.com/Fdawgs/node-unrtf-win32/issues/8)) ([b6a7b5f](https://github.com/Fdawgs/node-unrtf-win32/commit/b6a7b5fa0bacebb5da10193e1f4d849624e03a0f))
+
 ## [0.0.3](https://github.com/Fdawgs/node-unrtf-win32/compare/v0.0.2...v0.0.3) (2025-11-18)
 
 
