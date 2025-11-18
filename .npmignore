@@ -1,0 +1,10 @@
+# `package.json` is published to npm, so everything added is included in the installed tarball.
+# Removing the `files` key and replacing it with this `.npmignore` saves some bytes, which
+# should improve installation performance slightly
+*
+!src/index.js
+!src/lib/unrtf*/bin/**
+!src/lib/unrtf*/contrib/**/COPYING
+!src/lib/unrtf*/contrib/**/README
+!types/index.d.ts
+!types/index.d.ts.map
