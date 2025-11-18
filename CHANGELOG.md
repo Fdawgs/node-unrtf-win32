@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.1](https://github.com/Fdawgs/node-unrtf-win32/compare/v1.0.0...v1.0.1) (2025-11-18)
+
+
+### Miscellaneous
+
+* **package:** add missing keywords ([#10](https://github.com/Fdawgs/node-unrtf-win32/issues/10)) ([f1f6155](https://github.com/Fdawgs/node-unrtf-win32/commit/f1f61553d406fcb6687da2dc8a7635a824517e55))
+
+
+### Tests
+
+* **index:** check directory path exists ([#12](https://github.com/Fdawgs/node-unrtf-win32/issues/12)) ([d71614d](https://github.com/Fdawgs/node-unrtf-win32/commit/d71614dc9d4aff0265590d37db14b53f2c63cfaf))
+
 ## [1.0.0](https://github.com/Fdawgs/node-unrtf-win32/compare/v0.0.3...v1.0.0) (2025-11-18)
 
 
