@@ -5,7 +5,7 @@
 const { stat } = require("node:fs/promises");
 // eslint-disable-next-line n/no-unsupported-features/node-builtins -- Tests, not in distributed code
 const { describe, it } = require("node:test");
-const binaryPath = require("./index");
+const binaryPath = require("../src/index");
 
 /** @typedef {import('node:test').TestContext} TestContext */
 
