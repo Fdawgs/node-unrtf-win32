@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.0.2](https://github.com/Fdawgs/node-unrtf-win32/compare/v1.0.1...v1.0.2) (2025-11-19)
+
+
+### Dependencies
+
+* **deps-dev:** remove husky ([#13](https://github.com/Fdawgs/node-unrtf-win32/issues/13)) ([8d826ae](https://github.com/Fdawgs/node-unrtf-win32/commit/8d826aec3fa1dfb2fe06d9f621219f21d43b2ec2))
+* remove type definition map ([#16](https://github.com/Fdawgs/node-unrtf-win32/issues/16)) ([28b0db4](https://github.com/Fdawgs/node-unrtf-win32/commit/28b0db4c74bc60d72186e797fc0845f8ae530fbd))
+
+
+### Miscellaneous
+
+* move tests from src to test dir ([#15](https://github.com/Fdawgs/node-unrtf-win32/issues/15)) ([6b139d2](https://github.com/Fdawgs/node-unrtf-win32/commit/6b139d22cca4ecb05fa45030272f96833af37d50))
+
 ## [1.0.1](https://github.com/Fdawgs/node-unrtf-win32/compare/v1.0.0...v1.0.1) (2025-11-18)
 
 

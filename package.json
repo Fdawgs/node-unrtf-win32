@@ -1,6 +1,6 @@
 {
 	"name": "node-unrtf-win32",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "32-bit UnRTF Windows binary",
 	"keywords": [
 		"html",
