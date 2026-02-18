@@ -1,5 +1,10 @@
 /* eslint-disable security/detect-non-literal-fs-filename -- Test files are not user-provided */
 
+/**
+ * Copyright (C) 2025-present Frazer Smith <frazer.dev@icloud.com>
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ */
+
 "use strict";
 
 const { stat } = require("node:fs/promises");
