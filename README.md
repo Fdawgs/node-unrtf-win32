@@ -14,6 +14,7 @@ This package provides a 32-bit Windows UnRTF binary packaged up into a Node.js m
 It is intended for use with the [node-unrtf](https://github.com/Fdawgs/node-unrtf) package but can be used independently.
 
 The module exports a `string` containing the absolute path to the directory containing the UnRTF binary.
+This can then be used to construct the full path to the UnRTF executable when using it in an application.
 
 ## Installation
 
