@@ -1,7 +1,7 @@
 {
 	"name": "node-unrtf-win32",
 	"version": "1.0.2",
-	"description": "32-bit UnRTF Windows binary",
+	"description": "32-bit Windows UnRTF binary",
 	"keywords": [
 		"html",
 		"latex",

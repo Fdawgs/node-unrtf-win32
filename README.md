@@ -6,7 +6,7 @@
 [![Coverage status](https://coveralls.io/repos/github/Fdawgs/node-unrtf-win32/badge.svg?branch=main)](https://coveralls.io/github/Fdawgs/node-unrtf-win32?branch=main)
 [![code style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
 
-> 32-bit UnRTF Windows binary packaged for Node.js
+> 32-bit Windows UnRTF binary packaged for Node.js
 
 ## Overview
 
@@ -24,6 +24,8 @@ npm i node-unrtf-win32
 ## Example Usage
 
 ```js
+"use strict";
+
 const unrtfPath = require("node-unrtf-win32");
 console.log(`UnRTF binary path: ${unrtfPath}`);
 ```
