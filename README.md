@@ -6,12 +6,15 @@
 [![Coverage status](https://coveralls.io/repos/github/Fdawgs/node-unrtf-win32/badge.svg?branch=main)](https://coveralls.io/github/Fdawgs/node-unrtf-win32?branch=main)
 [![code style: Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat)](https://github.com/prettier/prettier)
 
-> 32-bit UnRTF Windows binary packaged for Node.js
+> 32-bit Windows UnRTF binary packaged for Node.js
 
 ## Overview
 
-This package provides a 32-bit Windows UnRTF binary packaged up into a Node.js module to make it easier to include in Node-based applications.
+This package provides a 32-bit Windows UnRTF binary packaged up into a Node.js module to make it easier to include in Node-based projects.
 It is intended for use with the [node-unrtf](https://github.com/Fdawgs/node-unrtf) package but can be used independently.
+
+The module exports a `string` containing the absolute path to the directory containing the UnRTF binary.
+This can then be used to construct the full path to the UnRTF executable.
 
 ## Installation
 
@@ -24,8 +27,10 @@ npm i node-unrtf-win32
 ## Example Usage
 
 ```js
-const unrtfPath = require("node-unrtf-win32");
-console.log(`UnRTF binary path: ${unrtfPath}`);
+"use strict";
+
+const unrtfDir = require("node-unrtf-win32");
+console.log(`UnRTF binary directory: ${unrtfDir}`);
 ```
 
 ## Contributing
