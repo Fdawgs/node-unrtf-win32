@@ -20,7 +20,7 @@ This can then be used to construct the full path to the UnRTF executable.
 
 Install using `npm`:
 
-```bash
+```sh
 npm i node-unrtf-win32
 ```
 
