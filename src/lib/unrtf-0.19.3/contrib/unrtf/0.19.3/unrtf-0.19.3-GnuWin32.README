@@ -22,15 +22,15 @@ Text Format:
 
 Homepage
 --------
-http://www.gnu.org/software/unrtf/unrtf.html
+https://www.gnu.org/software/unrtf/unrtf.html
 
 System
 ------
 - MS-Windows 95 / 98 / ME / NT / 2000 / XP with msvcrt.dll
 - if msvcrt.dll is not in your Windows/System folder, get it from
-  Microsoft <http://support.microsoft.com/default.aspx?scid=kb;en-us;259403">
+  Microsoft <https://support.microsoft.com/default.aspx?scid=kb;en-us;259403">
   or by installing Internet Explorer 4.0 or higher
-  <http://www.microsoft.com/windows/ie>
+  <https://www.microsoft.com/windows/ie>
 
 Notes
 -----
