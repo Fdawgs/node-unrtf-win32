@@ -1,5 +1,34 @@
 # Changelog
 
+## [2.0.0](https://github.com/Fdawgs/node-unrtf-win32/compare/v1.0.3...v2.0.0) (2026-08-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* minimum supported version bumped from node 20 to 22
+
+### Continuous integration
+
+* **cd:** install latest npm 11 for trusted publishing ([#77](https://github.com/Fdawgs/node-unrtf-win32/issues/77)) ([c99356b](https://github.com/Fdawgs/node-unrtf-win32/commit/c99356b7ebbbea173a8a2dfb09f9c99dccbfe750))
+* **ci:** add node 26 to test matrix ([#44](https://github.com/Fdawgs/node-unrtf-win32/issues/44)) ([76282a6](https://github.com/Fdawgs/node-unrtf-win32/commit/76282a6d5e6f6befd2a260c57e676dc20801043f))
+* **deps:** bump coverallsapp/github-action from 2.3.7 to 2.3.8 ([#80](https://github.com/Fdawgs/node-unrtf-win32/issues/80)) ([67b37c2](https://github.com/Fdawgs/node-unrtf-win32/commit/67b37c26753301f7074ac5e5a63fc88fdd5b50c3))
+* **deps:** bump the github-owned group with 2 updates ([#79](https://github.com/Fdawgs/node-unrtf-win32/issues/79)) ([1a6a28d](https://github.com/Fdawgs/node-unrtf-win32/commit/1a6a28d4fbe33739f36a6d9611162707bf9e2076))
+* **deps:** bump the github-owned group with 4 updates ([#75](https://github.com/Fdawgs/node-unrtf-win32/issues/75)) ([6d862a0](https://github.com/Fdawgs/node-unrtf-win32/commit/6d862a0a143ab12c7d516b1a91813a140a9357cc))
+
+
+### Dependencies
+
+* **deps-dev:** bump c8 from 11.0.0 to 12.0.0 ([#72](https://github.com/Fdawgs/node-unrtf-win32/issues/72)) ([d6c0a7d](https://github.com/Fdawgs/node-unrtf-win32/commit/d6c0a7dc37c5827db0aa5d11e6301ff91e1b74ab))
+* **deps-dev:** bump prettier from 3.8.5 to 3.9.5 ([#74](https://github.com/Fdawgs/node-unrtf-win32/issues/74)) ([8be523a](https://github.com/Fdawgs/node-unrtf-win32/commit/8be523a3b17b1eb83222cb2c71b7b2e28dcef32a))
+* **deps-dev:** bump prettier from 3.9.5 to 3.9.6 ([#78](https://github.com/Fdawgs/node-unrtf-win32/issues/78)) ([b49fc34](https://github.com/Fdawgs/node-unrtf-win32/commit/b49fc34df8ae62c489269956a4f3c6e82fcefe5b))
+* **deps-dev:** bump the commitlint group across 1 directory with 2 updates ([#47](https://github.com/Fdawgs/node-unrtf-win32/issues/47)) ([3742793](https://github.com/Fdawgs/node-unrtf-win32/commit/374279392b1c405e9e01ee62a15bd4160f572045))
+* **deps-dev:** bump typescript from 6.0.3 to 7.0.2 ([#73](https://github.com/Fdawgs/node-unrtf-win32/issues/73)) ([9d82c6d](https://github.com/Fdawgs/node-unrtf-win32/commit/9d82c6dab102aa4601617d81ad360d1c16c67f07))
+
+
+### Miscellaneous
+
+* drop support for node 20 ([#76](https://github.com/Fdawgs/node-unrtf-win32/issues/76)) ([9c97f6c](https://github.com/Fdawgs/node-unrtf-win32/commit/9c97f6cc05ce1ad89342547d15343d4f7497eae8))
+
 ## [1.0.3](https://github.com/Fdawgs/node-unrtf-win32/compare/v1.0.2...v1.0.3) (2026-07-12)
 
 
