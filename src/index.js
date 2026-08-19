@@ -10,6 +10,6 @@ const { resolve } = require("node:path");
 /**
  * The absolute path to the directory containing the UnRTF binary.
  */
-const binaryPath = resolve(__dirname, "lib", "unrtf-0.19.3", "bin");
+const binaryPath = resolve(__dirname, "lib", "unrtf", "bin");
 
 module.exports = binaryPath;
