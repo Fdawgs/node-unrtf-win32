@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.1](https://github.com/Fdawgs/node-unrtf-win32/compare/v2.0.0...v2.0.1) (2026-08-19)
+
+
+### Improvements
+
+* **lib:** rename dir to make git diffs easier ([#81](https://github.com/Fdawgs/node-unrtf-win32/issues/81)) ([c6f0cce](https://github.com/Fdawgs/node-unrtf-win32/commit/c6f0ccebceb3b732e0120bc84e1e9e83c59198cc))
+
 ## [2.0.0](https://github.com/Fdawgs/node-unrtf-win32/compare/v1.0.3...v2.0.0) (2026-08-18)
 
 
