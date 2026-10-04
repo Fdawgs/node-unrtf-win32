@@ -1,5 +1,20 @@
 # Changelog
 
+## [2.0.2](https://github.com/Fdawgs/node-unrtf-win32/compare/v2.0.1...v2.0.2) (2026-10-04)
+
+
+### Continuous integration
+
+* **deps:** bump the github-owned group with 2 updates ([#84](https://github.com/Fdawgs/node-unrtf-win32/issues/84)) ([b5b763f](https://github.com/Fdawgs/node-unrtf-win32/commit/b5b763f6d4b5a66c28e6fa09d5026385b3a53dc4))
+* **deps:** bump the github-owned group with 2 updates ([#87](https://github.com/Fdawgs/node-unrtf-win32/issues/87)) ([667d41a](https://github.com/Fdawgs/node-unrtf-win32/commit/667d41a4212007acfd5b620feba6ac1b03603ab4))
+
+
+### Dependencies
+
+* **deps-dev:** bump prettier from 3.9.6 to 3.9.9 ([#85](https://github.com/Fdawgs/node-unrtf-win32/issues/85)) ([93f7501](https://github.com/Fdawgs/node-unrtf-win32/commit/93f7501d8b768c86a60e87d4b7d3cfb913caf990))
+* **deps:** bump ghcr.io/devcontainers/features/github-cli ([#83](https://github.com/Fdawgs/node-unrtf-win32/issues/83)) ([8f359ca](https://github.com/Fdawgs/node-unrtf-win32/commit/8f359ca5083cd7f2bcc6818b829d48428eaf161c))
+* **deps:** bump ghcr.io/devcontainers/features/github-cli ([#86](https://github.com/Fdawgs/node-unrtf-win32/issues/86)) ([e9e3c1a](https://github.com/Fdawgs/node-unrtf-win32/commit/e9e3c1abe5047ece1f45a32bed1c52bc2f437f81))
+
 ## [2.0.1](https://github.com/Fdawgs/node-unrtf-win32/compare/v2.0.0...v2.0.1) (2026-08-19)
 
 
